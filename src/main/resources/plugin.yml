@@ -1,0 +1,4 @@
+name: Randomtp1_16_5
+version: ${project.version}
+main: kun.randomtp1_16_5.Randomtp1_16_5
+api-version: 1.16
